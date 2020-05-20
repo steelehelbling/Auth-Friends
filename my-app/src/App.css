@@ -1,0 +1,43 @@
+
+input{
+margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.App{
+    margin: 0 auto;
+    width: 300px;
+   
+}
+button{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: brown;
+    border: red solid 2px;
+    color: white;
+}
+
+.handle{
+    width: 120px;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-right: 50px;
+    background-color: brown;
+    border: red solid 2px;
+    color: white;
+}
+.title{
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+   padding: 20px;
+ 
+
+}
+
+Link{   
+    
+    color: black;
+    text-decoration: none;}
